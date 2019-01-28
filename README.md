@@ -68,13 +68,4 @@ Or just:
     ./golang-sso-google &
     google-chrome http://127.0.0.1:9090/login &
 
-## Screenshots
-
-![Login Button][login-button]
-![Google Redirect][google-redirect]
-
-
-[iam-creds]: https://console.developers.google.com/apis/credentials
-[login-button]: https://nosemaj.org/dl/login-button.png "Login button"
-[google-redirect]: https://nosemaj.org/dl/google-redirect.png "Google Redirect"
 
